@@ -40,6 +40,26 @@ Web Scraping, HMTL/CSS, Jupyter Notebook, Python, json
 
 
 ## Exécution du Notebook
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ikramkouibaati/Webscraping_Eval
+```
+
+Go to the project directory
+
+```bash
+  cd Webscraping_Eval
+```
+
+Start the maria db 
+
+```bash
+  docker compose up -d
+```
+
 - Assurez-vous d'avoir toutes les dépendances Python installées en exécutant : 
     - pip install bs4
     - pip install requirements
