@@ -38,3 +38,18 @@ Web Scraping, HMTL/CSS, Jupyter Notebook, Python, json
 
 **pandas:**  Pour la manipulation et l'analyse des données.
 
+
+## Exécution du Notebook
+- Assurez-vous d'avoir toutes les dépendances Python installées en exécutant : 
+    - pip install bs4
+    - pip install requirements
+    - pip install pandas
+    - pip install matplotlib
+
+- Exécutez le notebook Jupyter scraping_mars_weather.ipynb dans un environnement Jupyter Notebook ou JupyterLab..
+
+## Acknowledgements
+
+ - [Tutoriel Web Scraping](http://78.202.101.108:5002/scraping/Intro_scraping/ )
+ - Le site [Web Mars News](https://static.bc-edx.com/data/web/mars_news/index.html) est exploité par edX Boot Camps LLC à des fins éducatives uniquement. Les titres des articles, les résumés, les dates et les images ont été extraits du site Web Mars News de la NASA en novembre 2022. 
+
